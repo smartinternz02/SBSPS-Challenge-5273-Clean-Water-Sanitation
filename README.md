@@ -22,3 +22,6 @@ Technology can make a significant impact on the availability of water and its co
 - The dashboard also shows how Gov. plans their projects and their funds for these projects.
 - A chat bot is here to help to the user to check hweter he is drinking safe water or not.
 - A machine learning module uses the data sources as a corpus to build a recommendation model and hosts that model.
+
+# Datasets
+* https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/Water%20usage%20in%20differerent%20states.csv
