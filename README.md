@@ -31,3 +31,8 @@ Technology can make a significant impact on the availability of water and its co
 # chat_bot using IBM watson assistant
 
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=d5843748-d5e8-40c8-ac1e-659209e03141&serviceInstanceID=f44eb160-f3fd-4f88-b4c1-3fc9ec97dde0
+
+# Dashboard
+It shows how different Indian states use water & how Gov supports in this field using projects.
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCLEAN%2BWATER%2BAND%2BSANITATION%2Bproject%2BDashboard&action=view&mode=dashboard&subView=model0000017ad92b54bf_00000000
