@@ -32,9 +32,14 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 # chat_bot using IBM watson assistant
 
+This Bot tell us about the safe water and about the project dashboard with some suggestions of purifying the water
+
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=d5843748-d5e8-40c8-ac1e-659209e03141&serviceInstanceID=f44eb160-f3fd-4f88-b4c1-3fc9ec97dde0
 
 # Datasets
+
+These data sets are taken from https://data.gov.in/
+
 * https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/Water%20usage%20in%20differerent%20states.csv
 * https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/Gov%20projects.csv
 * https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/water%20quality.csv
