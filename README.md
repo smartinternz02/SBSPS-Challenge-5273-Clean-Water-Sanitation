@@ -26,6 +26,7 @@ Technology can make a significant impact on the availability of water and its co
 
 # Dashboard
 It shows how different Indian states use water & how Gov supports in this field using projects. https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/CLEAN%20WATER%20AND%20SANITATION%20project%20Dashboard.pdf
+
 Using IBM Congo Analytics.
 https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCLEAN%2BWATER%2BAND%2BSANITATION%2Bproject%2BDashboard&action=view&mode=dashboard&subView=model0000017ad92b54bf_00000000
 
