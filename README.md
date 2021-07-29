@@ -26,4 +26,8 @@ Technology can make a significant impact on the availability of water and its co
 # Datasets
 * https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/Water%20usage%20in%20differerent%20states.csv
 * https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/Gov%20projects.csv
-* 
+* https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/water%20quality.csv
+
+# chat_bot using IBM watson assistant
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=d5843748-d5e8-40c8-ac1e-659209e03141&serviceInstanceID=f44eb160-f3fd-4f88-b4c1-3fc9ec97dde0
