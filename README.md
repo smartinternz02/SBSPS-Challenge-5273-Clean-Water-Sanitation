@@ -51,3 +51,5 @@ Using IBM Machine learning Auto AI with the help of water quality data we prepar
 
 https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/ML%20model%20for%20prediction%20of%20safe%20water.mp4
 
+
+# TAHNK YOU :)
