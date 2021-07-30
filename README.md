@@ -47,7 +47,7 @@ These data sets are taken from https://data.gov.in/
 
 # Machine learning module
 
-Using IBM Machine learning Auto AI with teh help of water quality data we prepare a model that predicts wheter the water is safe or not safe with the help of its chemical constituents.
+Using IBM Machine learning Auto AI with the help of water quality data we prepare a model that predicts wheter the water is safe or not safe with the help of its chemical constituents.
 
 https://github.com/smartinternz02/SBSPS-Challenge-5273-Clean-Water-Sanitation/blob/main/ML%20model%20for%20prediction%20of%20safe%20water.mp4
 
